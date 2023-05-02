@@ -183,6 +183,15 @@ export default {
 }
 
 .page {
+  background-color: #fff;
+}
+
+.settings__list {
+  background-color: #fff;
+}
+
+.footer {
+  background-color: #fff;
 }
 
 button{
