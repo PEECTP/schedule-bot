@@ -3,9 +3,9 @@
     <div class="page__layout">
 
       <div class="page__top-bar top-bar">
-<!--        <div class="top-bar__icon">-->
-<!--          <img src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/32/null/external-premium-seo-flatart-icons-lineal-color-flatarticons.png"/>-->
-<!--        </div>-->
+        <!--        <div class="top-bar__icon">-->
+        <!--          <img src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/32/null/external-premium-seo-flatart-icons-lineal-color-flatarticons.png"/>-->
+        <!--        </div>-->
         <p class="top-bar__title">PKT Bot Diamond</p>
       </div>
 
@@ -361,3 +361,4 @@ button{
 }
 
 </style>
+
