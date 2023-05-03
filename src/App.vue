@@ -1,5 +1,6 @@
 <template>
   <with-premium-page></with-premium-page>
+<!--  <without-premium-page></without-premium-page>-->
 </template>
 
 <script>
