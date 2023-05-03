@@ -285,12 +285,12 @@ button{
   position: relative;
   display: inline-block;
   /*margin-right: .5rem;*/
-  width: 26px;
-  height: 16px;
+  width: 46px;
+  height: 26px;
   background-color: #e6e6e6;
   border-radius: 15px;
   vertical-align: text-bottom;
-  transition: all 0.3s linear;
+  transition: all 0.2s linear;
 }
 
 /*.form-switch i::before {*/
@@ -310,17 +310,17 @@ button{
   content: "";
   position: absolute;
   left: 0;
-  width: 12px;
-  height: 12px;
+  width: 22px;
+  height: 22px;
   background-color: #fff;
   border-radius: 15px;
   /*box-shadow: 0 2px 2px rgba(0, 0, 0, 0.24);*/
   transform: translate3d(2px, 2px, 0);
-  transition: all 0.3s linear;
+  transition: all 0.2s linear;
 }
 
 .form-switch:active i::after {
-  width: 18px;
+  width: 22px;
   transform: translate3d(2px, 2px, 0);
 }
 
@@ -329,7 +329,7 @@ button{
 .form-switch input[type=checkbox]:checked ~ i { background-color: #4BD763; }
 .form-switch input[type=checkbox]:checked ~ i::before { transform: translate3d(2px, 2px, 0) scale3d(0, 0, 0); }
 
-.form-switch input[type=checkbox]:checked ~ i::after { transform: translate3d(12px, 2px, 0); }
+.form-switch input[type=checkbox]:checked ~ i::after { transform: translate3d(22px, 2px, 0); }
 
 .remove-line {
   border: none;
